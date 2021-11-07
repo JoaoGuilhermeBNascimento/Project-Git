@@ -1,0 +1,49 @@
+git  = software de controle de versão, VCS
+GitHub = plataforma de rede social para programadores.
+
+======= git =============
+Git - Repositório local
+Versionamento (versões) de código, de software.
+é importante porque o programador sempre lida com varias versões de uma coisa.
+
+Exemplo de Versionamento:
+- Ao inves de ficar gerando varias pastas de um programa, eu guardo no meu
+Versionamento de software que é o git
+======= commit =============
+ ============= Centralizado/linear =============
+  --> CA sofware change manager(CCC)
+  --> Souce Code Conntrol System (SCCS)
+  --> Panvalet
+  --> Concurrent version System(CVS)
+        - Open Soucer
+        - Mais popular
+        
+  --> Apache subversion(SVN) 
+        - Centralizado
+        - Open Soucer
+  --> ClearCase
+  --> Visual SoucerSafe
+  --> Perfoce
+Quando pegamos uma pasta e mandamos para um repositório central, estamos fazendo um commit
+ - este tipo de vcs é chamado de centralizado/linear 
+ ============= Distribuído =============
+ --> Mercurial
+ --> Bazaar
+ --> Code Co-op
+ --> GNU arch
+ --> Monotone
+ --> Fossil
+ --> BitKeeper
+ --> Git
+No novo modelo, Distribuído
+ - Você tem varias pessoas, quando eles commitam eles fazem isso para o reservatório local
+ - Nesta tecnologia temos um repositório remoto, onde todas as pessoas fazem push(basicametee é o Versionamento da sua maquina para o repositório remoto)
+
+====== Principais Vantagens ======
+ - Controle de Histórico
+ - Trabalho em equipe
+ - Ramificação do projeto
+ - Segurança
+ - Organização
+
+Git são os repositório locais

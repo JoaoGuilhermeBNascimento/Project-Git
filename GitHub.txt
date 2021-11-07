@@ -1,0 +1,11 @@
+========= GitHub =========
+O GitHub é um dos mais famosos repositório remoto
+GitHub também é uma plataforma social para progrmadores  
+
+ - Repositório ilimitados
+ - Hospedagem de código-fonte
+ - Características de rede social
+ - GitHub Pages integrado
+ - Colaboração
+ - Forks (voce deu uma dica para um código é o dono não aceito, você pode criar um forks e continuar o código)
+
