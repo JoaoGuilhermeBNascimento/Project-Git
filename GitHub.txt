@@ -9,3 +9,9 @@ GitHub também é uma plataforma social para progrmadores
  - Colaboração
  - Forks (voce deu uma dica para um código é o dono não aceito, você pode criar um forks e continuar o código)
 
+São exemplos de VCS centralizados:
+ CVS e SVN
+
+ Quando já temos uma versão intermediária no nosso software e queremos enviar nossos últimos versionamentos locais para o GitHub, que operação usaremos? push
+ 
+ O uso de versionamento no dia-a-dia nos traz diversas vantagens. Na lista a seguir, qual é a única opção que NÃO É uma dessas vantagens? criptografia de códigos
